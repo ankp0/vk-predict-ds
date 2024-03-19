@@ -4,3 +4,5 @@
 features.csv
 test.csv
 train.csv
+# Ignore catboost files
+/catboost_info/
