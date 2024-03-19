@@ -1,2 +1,6 @@
 # Ignore notebook
 *.ipynb
+# Ignore initial data files
+features.csv
+test.csv
+train.csv
